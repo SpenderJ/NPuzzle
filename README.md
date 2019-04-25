@@ -3,7 +3,7 @@
 
 ### What is NPuzzle
 
-Lem-In is the first algorithmic project after algorithm branch at 42.
+NPuzzle is the first algorithmic project after algorithm branch at 42.
 
 The goal of the project is to implementthe astar algorithm to resolve a simple game named "taquin".
 
